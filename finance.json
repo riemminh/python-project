@@ -1,0 +1,17 @@
+[
+    {
+        "type": "income",
+        "amount": 100.0,
+        "description": "riem test"
+    },
+    {
+        "type": "income",
+        "amount": 400.0,
+        "description": "test1"
+    },
+    {
+        "type": "expense",
+        "amount": 300.0,
+        "description": "test"
+    }
+]
